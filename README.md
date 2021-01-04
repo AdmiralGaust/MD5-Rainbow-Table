@@ -1,2 +1,4 @@
 # MD5-Rainbow-Table
-A list of plaintext md5 hashes along with their corresponding text
+
+Rainbow Table is a list of files containing plaintext user passwords along with their corresponding algorithmic hashes. Hashes can be generated as required.
+
