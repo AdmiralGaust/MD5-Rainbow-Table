@@ -1,4 +1,4 @@
-# MD5-Rainbow-Table
+# Rainbow Table Hash Generator
 
-Rainbow Table is a list of files containing plaintext user passwords along with their corresponding algorithmic hashes. Hashes can be generated as required.
+Hash Generator is a python script used to generate plaintext user passwords along with their corresponding algorithmic hashes. Hashes can be generated as required.
 
